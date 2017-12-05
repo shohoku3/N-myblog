@@ -1,5 +1,5 @@
-# N-myblog#
-环境:node.js+express+mongoDB</br>
+# N-myblog
+node.js+express+mongoDB</br>
 ##install dependencies##
 >npm install</br>
 ##server with hot reload at localhost:3000##
