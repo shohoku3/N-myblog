@@ -1,9 +1,10 @@
 # N-myblog</br>
-环境:node.js+express+mongoDB</br>
-##install dependencies##</br>
-npm install
+##环境##
+>node.js+express+mongoDB</br>
+##install dependencies##
+>npm install</br>
 ##server with hot reload at localhost:3000##
-supervisor index
+>supervisor index</br>
 ##mongoDB relative##
-mongod.exe
-mongo.exe
+>mongod.exe</br>
+>mongo.exe</br>
