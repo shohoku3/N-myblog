@@ -1,5 +1,5 @@
 > A N-myblog 
-基于nodeJS Express MongoDB 的个人博客
+基于nodeJS+Express+MongoDB 的个人博客
 
 ## Build Setup
 
@@ -35,3 +35,5 @@ localhost:3000/posts
 - [x] Article PV show
 - [ ] Send emoji
 - [x] My info display (resume, App settings, feedback, edit nickname, edit personalized signature)
+- [x] Edit your article
+- [ ] To do List
