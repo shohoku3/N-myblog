@@ -10,7 +10,16 @@ npm install
 # serve with hot reload at localhost:8080
 supervisor index
 
+# mongoDB index DB 
+mongod.exe --dbpath "path"
+
 # run MongoDB 
 mongod.exe
+
+#run 
 mongo.exe
+
+#visit
+localhost:3000/posts
+
 ```
