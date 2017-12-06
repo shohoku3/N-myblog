@@ -36,4 +36,5 @@ localhost:3000/posts
 - [ ] Send emoji
 - [x] My info display (resume, App settings, feedback, edit nickname, edit personalized signature)
 - [x] Edit your article
-- [ ] To do List
+- [ ] contentToHtml
+- [ ] Post success redirect to :postId 
